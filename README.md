@@ -1,5 +1,5 @@
 ## 🚀 Live Demo
-👉 [Click here to see the app](https://tangellahema0-sudo-netflix-analyzer.streamlit.app)
+👉 [Click here to see the app](https://netflix-analyzer-5ps2enpqwzeuzf8t75gph6.streamlit.app/)
 # 🎬 Netflix Content Analyzer & Recommender
 
 ## About
